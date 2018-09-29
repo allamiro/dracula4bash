@@ -29,4 +29,4 @@ Dracula theme for linux  bash shell - It's inspired by Dracula Project and it us
 More information can be found https://github.com/dracula/dracula-theme#color-palette
 
 ## LICENSE
-[MIT License](./MITLICENSE)
+[MIT License](./MITLicense)
