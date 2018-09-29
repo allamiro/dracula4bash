@@ -6,10 +6,10 @@
 ## Color Palette
 
 Palette      | Hex       | RGB           | HSL             | Xterm256 Color |![Color Picker Boxes](https://draculatheme.com/assets/img/color-boxes/eyedropper.png)
----          | ---       | ---           | ---             |   | ---
-Background   | `#282a36` | `40 42 54`    | `231° 15% 18%`  | s| ![Background Color](https://draculatheme.com/assets/img/color-boxes/background.png)
-Current Line | `#44475a` | `68 71 90`    | `232° 14% 31%`  | s| ![Current Line Color](https://draculatheme.com/assets/img/color-boxes/current_line.png)
-Selection    | `#44475a` | `68 71 90`    | `232° 14% 31%`  | s| ![Selection Color](https://draculatheme.com/assets/img/color-boxes/selection.png)
+---          | ---       | ---           | ---             |    ---
+Background   | `#282a36` | `40 42 54`    | `231° 15% 18%`  |s| ![Background Color](https://draculatheme.com/assets/img/color-boxes/background.png)
+Current Line | `#44475a` | `68 71 90`    | `232° 14% 31%`  |s| ![Current Line Color](https://draculatheme.com/assets/img/color-boxes/current_line.png)
+Selection    | `#44475a` | `68 71 90`    | `232° 14% 31%`  |s| ![Selection Color](https://draculatheme.com/assets/img/color-boxes/selection.png)
 Foreground   | `#f8f8f2` | `248 248 242` | `60° 30% 96%`   |s|  ![Foreground Color](https://draculatheme.com/assets/img/color-boxes/foreground.png)
 Comment      | `#6272a4` | `98 114 164`  | `225° 27% 51%`  |s|  ![Comment Color](https://draculatheme.com/assets/img/color-boxes/comment.png)
 Cyan         | `#8be9fd` | `139 233 253` | `191° 97% 77%`  |s|  ![Cyan Color](https://draculatheme.com/assets/img/color-boxes/cyan.png)
