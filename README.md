@@ -1,11 +1,11 @@
 # Dracula for [BASH](https://www.gnu.org/software/bash/)
-######A dark theme for BASH.
+###### A dark theme for BASH.
 
 
 
 
 
-##Install
+## Install
 
 Install using Git
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
@@ -13,17 +13,17 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 $ git clone https://github.com/allamiro/dracula-bash.git
 
 
-##Instructions
+## Instructions
 
  
 
 
-##Team
+## Team
 
 This theme is maintained by the following person(s) of awesome contributors.
 
 
 
-##Credits
+## Credits
 Dracula theme for linux  bash shell - It's inspired by Dracula Project and it uses its  color palette.
 More information can be found https://github.com/dracula/dracula-theme#color-palette
