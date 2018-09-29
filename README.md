@@ -1,5 +1,5 @@
 # Dracula for [BASH](https://www.gnu.org/software/bash/)
-###### A dark theme for BASH.
+###### A dark theme for [BASH](https://www.gnu.org/software/bash/).
 
 
 
