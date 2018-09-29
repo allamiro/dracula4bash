@@ -22,7 +22,7 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 
 This theme is maintained by the following person(s) of awesome contributors.
 
-[![Tamir Suliman ]()](https://github.com/allamiro) |
+[![Tamir Suliman ](https://pbs.twimg.com/profile_images/947359176040181761/7uagznlG_400x400.jpg)](https://github.com/allamiro) |
 --- | ---
 [Tamir Suliman](https://github.com/allamiro) |
 
