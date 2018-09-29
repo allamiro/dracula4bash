@@ -1,6 +1,6 @@
 # Dracula for [BASH](https://www.gnu.org/software/bash/)
+######A dark theme for BASH.
 
-A dark theme for BASH.
 
 
 
@@ -13,6 +13,7 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 $ git clone https://github.com/allamior/dracula-bash.git
 
 
+Instructions
 
  
 
