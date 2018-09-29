@@ -7,7 +7,7 @@
 
 
 Palette      | Hex       | RGB           | HSL | Xterm256            | ![Color Picker Boxes](https://draculatheme.com/assets/img/color-boxes/eyedropper.png)
----          | ---       | ---           | ---             | ---
+---          | ---       | ---           | ---             | ---  | ---
 Background   | `#282a36` | `40 42 54`    | `231° 15% 18%`  |256|  ![Background Color](https://draculatheme.com/assets/img/color-boxes/background.png)
 Current Line | `#44475a` | `68 71 90`    | `232° 14% 31%`  |256|  ![Current Line Color](https://draculatheme.com/assets/img/color-boxes/current_line.png)
 Selection    | `#44475a` | `68 71 90`    | `232° 14% 31%`  |256|  ![Selection Color](https://draculatheme.com/assets/img/color-boxes/selection.png)
