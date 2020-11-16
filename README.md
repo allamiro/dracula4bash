@@ -46,6 +46,7 @@ This theme is maintained by the following person(s) of awesome contributors.
 ## Credits
 Dracula theme for linux  bash shell - It's inspired by Dracula Project and it uses its  color palette.
 More information can be found https://github.com/dracula/dracula-theme#color-palette
-
+Changelog
+The changelog is available on the release page in each theme's repository.
 ## LICENSE
 [MIT License](./MITLicense)
