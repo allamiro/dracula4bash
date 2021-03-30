@@ -49,4 +49,4 @@ More information can be found https://github.com/dracula/dracula-theme#color-pal
 Changelog
 The changelog is available on the release page in each theme's repository.
 ## LICENSE
-[MIT License](./MITLicense)
+[MIT License](./LICENSE)
